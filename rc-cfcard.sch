@@ -345,7 +345,7 @@ U 1 1 5FC53FDD
 P 8100 1750
 F 0 "J3" H 8600 2015 50  0000 C CNN
 F 1 "CF Socket" H 8600 1924 50  0000 C CNN
-F 2 "PD_Parts:CF_Card_Socket" H 8950 1900 50  0001 L CNN
+F 2 "rc-cfcard:CF_Card_Socket" H 8950 1900 50  0001 L CNN
 F 3 "http://multimedia.3m.com/mws/media/223587O/3mtm-cf-card-hdr-compactflashtm-type-ii-surfacemount-ts2082.pdf" H 8950 1800 50  0001 L CNN
 	1    8100 1750
 	1    0    0    -1  
