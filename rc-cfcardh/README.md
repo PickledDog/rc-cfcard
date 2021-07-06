@@ -1,13 +1,13 @@
 # rc-cfcardh
  Buffered CompactFlash card for RC2014, female header version
-![Assembled PD105H](/img/assembled.jpg)
+![Assembled PD105H](/img/rc-cfcardh/assembled.jpg)
 
 ## Overview
-Want something easier to solder, or just prefer the CompactFlash socket to be above the other RC2014 boards? This variant of rc-cfcard uses a female IDE header (and IDE-to-CF adapter) instead of a directly-mounted CF socket. It is otherwise the same as the primary design; refer to [the main project](/..) for anything not covered here.
+Want something easier to solder, or just prefer the CompactFlash socket to be above the other RC2014 boards? This variant of rc-cfcard uses a female IDE header (and IDE-to-CF adapter) instead of a directly-mounted CF socket. It is otherwise the same as the primary design; refer to [the main project](/) for anything not covered here.
 
 ## Part selection
 Bill Of Materials and part references are below. The LED and its resistor can be considered optional, since IDE-to-CF adapters usually have an activity LED of their own. Said adapter can be [sourced from eBay](https://www.ebay.com/sch/i.html?_nkw=ide+to+compact+flash+44+pin) - the board is designed for this style of adapter:
-![CompactFlash adapter](/img/cf-adapter.jpg)
+![CompactFlash adapter](/img/rc-cfcardh/cf-adapter.jpg)
 
 | Reference | Value | Qty | Mouser link |
 | --------- | ----- | --- | ----------- |
